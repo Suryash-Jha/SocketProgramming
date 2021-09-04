@@ -1,6 +1,6 @@
 import socket
 s= socket.socket()
-host= "192.168.1.104"
+host= "192.168.1.106"
 port= 6895
 s.connect((host, port))
 

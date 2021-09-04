@@ -3,7 +3,7 @@ def create_socket():
     global host
     global port
     global s
-    host= "192.168.1.104"
+    host= "192.168.1.106"
     port= 6895
     s= socket.socket()
 
